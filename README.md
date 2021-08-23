@@ -1,8 +1,7 @@
-## 曦和 - 来自2072的机器人
+# 曦和 qq机器人
 
-![20101302飞船2_cut_xihe](README.assets/20101302%E9%A3%9E%E8%88%B92_cut_xihe.png)
-
-> 得缩一缩图片大小……固定一下
+<div align="center">
+<img src="README.assets/20101302%E9%A3%9E%E8%88%B92_cut_xihe-small.jpg" height="500" width="550" 
 
 ## 项目开始
 
@@ -14,12 +13,6 @@
 
 - 解耦，发出的信息放在信息区，方便更改，最好是读写文件来获取，json获取！！！！！
 - 每一种信息一个 “信息类型.json”文件，放在xihe/message/     目录下
-
-##  
-
-## readme文件
-
-- 加上曦和的图、形象图
 
  
 
@@ -48,9 +41,9 @@
 
 ![img](README.assets/xihe_color.png)
 
- 
+![曦和人设立绘](README.assets/%E6%9B%A6%E5%92%8C%E4%BA%BA%E8%AE%BE%E7%AB%8B%E7%BB%98.jpg)
 
-## 找画人的画师
+## 想找个画曦和的画师
 
 - 想给她找个画画的妈qaq 不然每次画都约稿没钱了qaq
 
