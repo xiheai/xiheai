@@ -1,11 +1,6 @@
 ## Welcome to GitHub Pages
 
-test change and upload
-233
-
-You can use the [editor on GitHub](https://github.com/xiheai/xiheai-web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![20101302飞船2_cut_xihe](README.assets/20101302%E9%A3%9E%E8%88%B92_cut_xihe.png)
 
 ### Markdown
 
