@@ -1,7 +1,9 @@
 # 曦和 qq机器人
 
 <div align="center">
-<img src="README.assets/20101302%E9%A3%9E%E8%88%B92_cut_xihe-small.jpg" height="500" width="550" 
+<img src="README.assets/xihe-%E6%AD%A3%E8%A7%86%E5%9B%BE-100.png" height="400" width="225" 
+
+
 
 ## 项目开始
 
